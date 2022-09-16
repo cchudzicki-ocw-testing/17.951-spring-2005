@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, required texts, and online intelligence resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
